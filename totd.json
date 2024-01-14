@@ -21962,5 +21962,22 @@
         "timestampIso": "2024-01-03T22:53:58+00:00",
         "timestampUnix": 1704322438,
         "uid": "nKSpMvOlmZYVCYDONb0o2T5dvTb"
+    },
+    "1292": {
+        "author": "6c36a836-7c69-4e84-b192-f2e2c5772db0",
+        "authorTime": 48598,
+        "bronzeTime": 73000,
+        "date": "2024-01-14",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/1762398e-6240-41e9-9043-41b94c9774be",
+        "goldTime": 52000,
+        "id": "7431c53d-8a20-4b22-8905-e4ce2101d377",
+        "nameClean": "NUN SVART",
+        "nameRaw": "$o$s$000N$222U$444N$666 $888S$999V$BBBA$DDDR$FFFT",
+        "silverTime": 59000,
+        "submitter": "6c36a836-7c69-4e84-b192-f2e2c5772db0",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/3e837f9c-472d-43e3-8b58-a127f76b7572.jpg",
+        "timestampIso": "2024-01-05T05:34:36+00:00",
+        "timestampUnix": 1704432876,
+        "uid": "cPGVBtodXiigpWMPX7AGYTDvW0"
     }
 }
