@@ -13192,7 +13192,7 @@
         "authorTime": 44269,
         "bronzeTime": 67000,
         "date": "2023-10-13",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/b160ac9c-e0d7-45f9-b587-cf049258c49f",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/17480eb0-673a-4d67-9a8b-c326e1f9a1b6",
         "goldTime": 47000,
         "id": "72cd74fc-a085-4629-8113-d8531f954d7b",
         "nameRaw": "$oZaunover $CCC[CE]$CCC$o",
@@ -13786,7 +13786,7 @@
         "authorTime": 50705,
         "bronzeTime": 77000,
         "date": "2023-12-06",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/8ac7499a-1ea1-4858-98c2-b6b6469f03b3",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/89c03a31-1cf4-47ad-9814-c2d3e228024c",
         "goldTime": 54000,
         "id": "d8885bb7-05da-4006-97cc-91af2e5d0b07",
         "nameRaw": "$o$fd3SHURIMA$o ft sqweegel",
@@ -14232,5 +14232,16 @@
         "nameRaw": "$s$39CA$fffscend",
         "silverTime": 55000,
         "uid": "b4w2ZbckYmunDmWbNE9jbNVf3uk"
+    },
+    "1294": {
+        "authorTime": 44952,
+        "bronzeTime": 68000,
+        "date": "2024-01-16",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/5d0d106e-5b5c-4655-934e-3c8e3dd5a13a",
+        "goldTime": 48000,
+        "id": "f50df001-0b19-4155-af0f-7b1b5047d376",
+        "nameRaw": "Irish $f00Goodbye",
+        "silverTime": 54000,
+        "uid": "uV2Aj2ehqyjN4YZ4Xi45KsCjkU0"
     }
 }

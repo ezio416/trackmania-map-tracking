@@ -20387,7 +20387,7 @@
         "authorTime": 44269,
         "bronzeTime": 67000,
         "date": "2023-10-13",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/b160ac9c-e0d7-45f9-b587-cf049258c49f",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/17480eb0-673a-4d67-9a8b-c326e1f9a1b6",
         "goldTime": 47000,
         "id": "72cd74fc-a085-4629-8113-d8531f954d7b",
         "nameClean": "Zaunover [CE]",
@@ -20395,8 +20395,8 @@
         "silverTime": 54000,
         "submitter": "2b3c5767-148b-4fba-9baa-2d5930db2973",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/fbbc4709-01e7-4215-8ab4-825210a56974.jpg",
-        "timestampIso": "2023-10-29T15:39:49+00:00",
-        "timestampUnix": 1698593989,
+        "timestampIso": "2024-01-16T01:50:58+00:00",
+        "timestampUnix": 1705369858,
         "uid": "gXJ6lkHsXSxLcThvm0RBoClGAE2"
     },
     "1200": {
@@ -21305,7 +21305,7 @@
         "authorTime": 50705,
         "bronzeTime": 77000,
         "date": "2023-12-06",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/8ac7499a-1ea1-4858-98c2-b6b6469f03b3",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/89c03a31-1cf4-47ad-9814-c2d3e228024c",
         "goldTime": 54000,
         "id": "d8885bb7-05da-4006-97cc-91af2e5d0b07",
         "nameClean": "SHURIMA ft sqweegel",
@@ -21313,8 +21313,8 @@
         "silverTime": 61000,
         "submitter": "2b3c5767-148b-4fba-9baa-2d5930db2973",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/1f038cdd-5cf3-49d7-b77c-727eaf2d861d.jpg",
-        "timestampIso": "2023-12-01T10:37:30+00:00",
-        "timestampUnix": 1701427050,
+        "timestampIso": "2024-01-16T01:50:59+00:00",
+        "timestampUnix": 1705369859,
         "uid": "NwdBNcsGIjZ66qUtdCSt5SmcPnm"
     },
     "1254": {
@@ -21996,5 +21996,22 @@
         "timestampIso": "2024-01-08T15:40:43+00:00",
         "timestampUnix": 1704728443,
         "uid": "b4w2ZbckYmunDmWbNE9jbNVf3uk"
+    },
+    "1294": {
+        "author": "3bf04db9-84b3-479c-b340-dee6e09389de",
+        "authorTime": 44952,
+        "bronzeTime": 68000,
+        "date": "2024-01-16",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/5d0d106e-5b5c-4655-934e-3c8e3dd5a13a",
+        "goldTime": 48000,
+        "id": "f50df001-0b19-4155-af0f-7b1b5047d376",
+        "nameClean": "Irish Goodbye",
+        "nameRaw": "Irish $f00Goodbye",
+        "silverTime": 54000,
+        "submitter": "3bf04db9-84b3-479c-b340-dee6e09389de",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/ac68d981-a424-4bd0-9431-ca698b9b0abb.jpg",
+        "timestampIso": "2023-11-13T03:52:03+00:00",
+        "timestampUnix": 1699847523,
+        "uid": "uV2Aj2ehqyjN4YZ4Xi45KsCjkU0"
     }
 }
