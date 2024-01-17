@@ -22013,5 +22013,22 @@
         "timestampIso": "2023-11-13T03:52:03+00:00",
         "timestampUnix": 1699847523,
         "uid": "uV2Aj2ehqyjN4YZ4Xi45KsCjkU0"
+    },
+    "1295": {
+        "author": "3468343f-bc7f-4ddd-938f-0f118d13cdc9",
+        "authorTime": 49988,
+        "bronzeTime": 75000,
+        "date": "2024-01-17",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/7850509b-803b-4ed0-9d0c-fd02daa4df79",
+        "goldTime": 53000,
+        "id": "4beabc7b-d0f3-49ad-b862-3b7c5349602a",
+        "nameClean": "Stonewashed ft Ski Freak",
+        "nameRaw": "$s$6cfStonewashed $fffft $6cfSki Freak",
+        "silverTime": 60000,
+        "submitter": "a00de335-a676-442d-a17a-bb86ec5cf329",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/1a40b6cb-e4c9-49bf-8b37-80b1bf15e024.jpg",
+        "timestampIso": "2023-12-30T17:58:24+00:00",
+        "timestampUnix": 1703959104,
+        "uid": "C2GgffYI0KRBmTS5LEHnWP1D874"
     }
 }

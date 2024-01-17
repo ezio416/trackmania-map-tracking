@@ -12948,5 +12948,15 @@
         "nameRaw": "Irish $f00Goodbye",
         "silverTime": 54000,
         "uid": "uV2Aj2ehqyjN4YZ4Xi45KsCjkU0"
+    },
+    "1295": {
+        "authorTime": 49988,
+        "bronzeTime": 75000,
+        "date": "2024-01-17",
+        "goldTime": 53000,
+        "id": "4beabc7b-d0f3-49ad-b862-3b7c5349602a",
+        "nameRaw": "$s$6cfStonewashed $fffft $6cfSki Freak",
+        "silverTime": 60000,
+        "uid": "C2GgffYI0KRBmTS5LEHnWP1D874"
     }
 }
