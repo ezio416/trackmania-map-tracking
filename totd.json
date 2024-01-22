@@ -22098,5 +22098,22 @@
         "timestampIso": "2024-01-10T16:53:44+00:00",
         "timestampUnix": 1704905624,
         "uid": "qGf64pzzVqLMi_KLZyYFc5a1CM7"
+    },
+    "1300": {
+        "author": "9c7b99cb-9dbd-4851-8327-73a82f6fd19a",
+        "authorTime": 40995,
+        "bronzeTime": 62000,
+        "date": "2024-01-22",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/75de0567-8c1b-4322-a711-4d6e496c80d5",
+        "goldTime": 44000,
+        "id": "66c4180e-f864-4d24-bd8b-e2555a95beff",
+        "nameClean": "A Space Odyssey 2",
+        "nameRaw": "$f70 A Space Odyssey 2",
+        "silverTime": 50000,
+        "submitter": "9c7b99cb-9dbd-4851-8327-73a82f6fd19a",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/adfa6fbd-be16-4fbd-afe7-f5f76ba2f052.jpg",
+        "timestampIso": "2024-01-19T22:35:11+00:00",
+        "timestampUnix": 1705703711,
+        "uid": "jrgJE8DvxNE1eB7R89mBAviVT3c"
     }
 }

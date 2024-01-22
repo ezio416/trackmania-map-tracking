@@ -12998,5 +12998,15 @@
         "nameRaw": "$o$s$F9FY$CBDA$9DBY$6F9O",
         "silverTime": 47000,
         "uid": "qGf64pzzVqLMi_KLZyYFc5a1CM7"
+    },
+    "1300": {
+        "authorTime": 40995,
+        "bronzeTime": 62000,
+        "date": "2024-01-22",
+        "goldTime": 44000,
+        "id": "66c4180e-f864-4d24-bd8b-e2555a95beff",
+        "nameRaw": "$f70 A Space Odyssey 2",
+        "silverTime": 50000,
+        "uid": "jrgJE8DvxNE1eB7R89mBAviVT3c"
     }
 }
