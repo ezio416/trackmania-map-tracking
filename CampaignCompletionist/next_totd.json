@@ -13238,5 +13238,15 @@
         "nameRaw": "Jaded",
         "silverTime": 72000,
         "uid": "yEvPk7Tzo7zVwr3mrfawAY90775"
+    },
+    "1324": {
+        "authorTime": 47778,
+        "bronzeTime": 72000,
+        "date": "2024-02-15",
+        "goldTime": 51000,
+        "id": "a6b28569-7b24-4e41-96f3-080cad6f13d5",
+        "nameRaw": "$i$67f$s$n$oBridge$g $333$s$iConduit",
+        "silverTime": 58000,
+        "uid": "cvF2TlC0MlF5PG0jKgVuW7godQh"
     }
 }

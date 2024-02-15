@@ -22506,5 +22506,22 @@
         "timestampIso": "2024-02-05T23:44:54+00:00",
         "timestampUnix": 1707176694,
         "uid": "yEvPk7Tzo7zVwr3mrfawAY90775"
+    },
+    "1324": {
+        "author": "04b1fb2f-a784-49c9-8a87-555fad3efdad",
+        "authorTime": 47778,
+        "bronzeTime": 72000,
+        "date": "2024-02-15",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/48f6fcd9-6864-442f-9ac7-78256fce1518",
+        "goldTime": 51000,
+        "id": "a6b28569-7b24-4e41-96f3-080cad6f13d5",
+        "nameClean": "Bridge Conduit",
+        "nameRaw": "$i$67f$s$n$oBridge$g $333$s$iConduit",
+        "silverTime": 58000,
+        "submitter": "04b1fb2f-a784-49c9-8a87-555fad3efdad",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/ef61b400-d42a-4516-b01f-1ea718748b43.jpg",
+        "timestampIso": "2024-02-08T12:12:28+00:00",
+        "timestampUnix": 1707394348,
+        "uid": "cvF2TlC0MlF5PG0jKgVuW7godQh"
     }
 }
