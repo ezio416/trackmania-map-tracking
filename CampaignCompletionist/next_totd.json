@@ -13248,5 +13248,15 @@
         "nameRaw": "$i$67f$s$n$oBridge$g $333$s$iConduit",
         "silverTime": 58000,
         "uid": "cvF2TlC0MlF5PG0jKgVuW7godQh"
+    },
+    "1325": {
+        "authorTime": 45261,
+        "bronzeTime": 68000,
+        "date": "2024-02-16",
+        "goldTime": 48000,
+        "id": "8a2752ef-08ef-43a4-a162-ede060660cf3",
+        "nameRaw": "$i$4CCa$5CC $5CDz$6CD u$7CE r$8CE i$9CF a",
+        "silverTime": 55000,
+        "uid": "4NIbTGhLOUiYhRKzZqRldjWCKi1"
     }
 }
