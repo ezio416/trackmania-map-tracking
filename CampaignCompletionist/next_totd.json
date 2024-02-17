@@ -13258,5 +13258,15 @@
         "nameRaw": "$i$4CCa$5CC $5CDz$6CD u$7CE r$8CE i$9CF a",
         "silverTime": 55000,
         "uid": "4NIbTGhLOUiYhRKzZqRldjWCKi1"
+    },
+    "1326": {
+        "authorTime": 44118,
+        "bronzeTime": 67000,
+        "date": "2024-02-17",
+        "goldTime": 47000,
+        "id": "6a96db86-a4bf-4b3b-9a7e-1d9f613f3f01",
+        "nameRaw": "$99FRe$FC0sort",
+        "silverTime": 53000,
+        "uid": "afM2vDbzl7EHqtEfStv0nCAI4Fe"
     }
 }

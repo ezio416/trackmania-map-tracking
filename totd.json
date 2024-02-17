@@ -22529,7 +22529,7 @@
         "authorTime": 45261,
         "bronzeTime": 68000,
         "date": "2024-02-16",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/ce23de54-e3cc-4a5b-9a60-24a766076376",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/c7319327-178d-4a87-bb90-a1583055b762",
         "goldTime": 48000,
         "id": "8a2752ef-08ef-43a4-a162-ede060660cf3",
         "nameClean": "a z u r i a",
@@ -22537,8 +22537,25 @@
         "silverTime": 55000,
         "submitter": "de590c4e-f98c-4783-afa8-a01efb069ceb",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/49061cf1-7b35-4e87-b6b9-b145846f7a56.jpg",
-        "timestampIso": "2024-02-05T14:14:12+00:00",
-        "timestampUnix": 1707142452,
+        "timestampIso": "2024-02-16T18:13:54+00:00",
+        "timestampUnix": 1708107234,
         "uid": "4NIbTGhLOUiYhRKzZqRldjWCKi1"
+    },
+    "1326": {
+        "author": "c8a25ce4-3a28-4c70-be13-598ae3618d27",
+        "authorTime": 44118,
+        "bronzeTime": 67000,
+        "date": "2024-02-17",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/6986d278-86f2-454d-8c1d-2e1676100610",
+        "goldTime": 47000,
+        "id": "6a96db86-a4bf-4b3b-9a7e-1d9f613f3f01",
+        "nameClean": "Resort",
+        "nameRaw": "$99FRe$FC0sort",
+        "silverTime": 53000,
+        "submitter": "c8a25ce4-3a28-4c70-be13-598ae3618d27",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/f05b8012-88b0-44f1-89c3-cad476ad9424.jpg",
+        "timestampIso": "2024-02-06T17:36:20+00:00",
+        "timestampUnix": 1707240980,
+        "uid": "afM2vDbzl7EHqtEfStv0nCAI4Fe"
     }
 }
