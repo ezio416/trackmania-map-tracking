@@ -22512,7 +22512,7 @@
         "authorTime": 47778,
         "bronzeTime": 72000,
         "date": "2024-02-15",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/48f6fcd9-6864-442f-9ac7-78256fce1518",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/3b5c40c0-6d88-42c5-94d2-53ad58439495",
         "goldTime": 51000,
         "id": "a6b28569-7b24-4e41-96f3-080cad6f13d5",
         "nameClean": "Bridge Conduit",
@@ -22520,8 +22520,8 @@
         "silverTime": 58000,
         "submitter": "04b1fb2f-a784-49c9-8a87-555fad3efdad",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/ef61b400-d42a-4516-b01f-1ea718748b43.jpg",
-        "timestampIso": "2024-02-08T12:12:28+00:00",
-        "timestampUnix": 1707394348,
+        "timestampIso": "2024-02-17T19:51:23+00:00",
+        "timestampUnix": 1708199483,
         "uid": "cvF2TlC0MlF5PG0jKgVuW7godQh"
     },
     "1325": {
@@ -22557,5 +22557,22 @@
         "timestampIso": "2024-02-06T17:36:20+00:00",
         "timestampUnix": 1707240980,
         "uid": "afM2vDbzl7EHqtEfStv0nCAI4Fe"
+    },
+    "1327": {
+        "author": "fc42881d-56fd-4206-9515-3a7222a67304",
+        "authorTime": 35873,
+        "bronzeTime": 54000,
+        "date": "2024-02-18",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/4a608063-911f-4779-bf14-fc9cdf5054e5",
+        "goldTime": 39000,
+        "id": "c48e3f03-b901-4bf4-8500-2bcfe2f9d36a",
+        "nameClean": "Rainy Racing",
+        "nameRaw": "R$55fa$giny R$55fa$gci$55fng",
+        "silverTime": 44000,
+        "submitter": "fc42881d-56fd-4206-9515-3a7222a67304",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/a00639ad-6ab8-45a2-9f1d-779e6bbedcd1.jpg",
+        "timestampIso": "2024-02-18T00:34:03+00:00",
+        "timestampUnix": 1708216443,
+        "uid": "6GBPjuxrq8Kd5HgtZ5yHJ2citTf"
     }
 }
