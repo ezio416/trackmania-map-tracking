@@ -22710,5 +22710,22 @@
         "timestampIso": "2024-02-18T20:27:12+00:00",
         "timestampUnix": 1708288032,
         "uid": "APgdRqXnIsTPIEXsXfQGbnyPCX"
+    },
+    "1336": {
+        "author": "085e1d24-7d55-496d-ad7a-1eb1efec09eb",
+        "authorTime": 46435,
+        "bronzeTime": 70000,
+        "date": "2024-02-27",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/b730fe45-3308-43a9-916f-874150a1ad2d",
+        "goldTime": 50000,
+        "id": "11a5993e-62d7-4ff7-8c08-377a01a53efc",
+        "nameClean": "Castle Special Stage",
+        "nameRaw": "$i$s$BB6Cas$CC7tl$CC9e S$DD9pe$DDAcia$EEBl $EECSta$FFDge",
+        "silverTime": 56000,
+        "submitter": "7cd60a75-609a-4e64-b286-16f329878249",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/dbe8c285-6569-4064-93a1-f1f33cbcd24c.jpg",
+        "timestampIso": "2024-02-26T16:58:36+00:00",
+        "timestampUnix": 1708966716,
+        "uid": "cy86obhOkBDkyCIVKfclmzB2xv8"
     }
 }
