@@ -13478,5 +13478,15 @@
         "nameRaw": "$i$s$F32Anyone's $fffPast - $f32Somebody's $fffFuture",
         "silverTime": 59000,
         "uid": "t4IeTzMKHdp4MBlLcyEGayyOGY5"
+    },
+    "1348": {
+        "authorTime": 50582,
+        "bronzeTime": 76000,
+        "date": "2024-03-10",
+        "goldTime": 54000,
+        "id": "c533251d-493f-40ff-ba02-fc693bdf4d1f",
+        "nameRaw": "$s$F93S$D83c$B72o$962r$742c$532h$321e$111d ft' Kcedus",
+        "silverTime": 61000,
+        "uid": "pmbiWbjBTWnPNQEhi2_2kpsxTfe"
     }
 }
