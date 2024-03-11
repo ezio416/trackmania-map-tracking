@@ -22931,5 +22931,22 @@
         "timestampIso": "2024-02-26T12:35:42+00:00",
         "timestampUnix": 1708950942,
         "uid": "pmbiWbjBTWnPNQEhi2_2kpsxTfe"
+    },
+    "1349": {
+        "author": "abea35a1-34d9-42e0-8b45-572d20b8f2d7",
+        "authorTime": 44180,
+        "bronzeTime": 67000,
+        "date": "2024-03-11",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/9ff8d592-a6b0-47fb-abbb-610d885d84bf",
+        "goldTime": 47000,
+        "id": "d72fe467-a135-472d-bf04-1f0d0e0cdfe1",
+        "nameClean": "NOVA AGRI",
+        "nameRaw": "$o$i$n$ADENOVA AGRI",
+        "silverTime": 54000,
+        "submitter": "abea35a1-34d9-42e0-8b45-572d20b8f2d7",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/4f8cb2f1-1c08-45cd-9803-05116a8b2b3c.jpg",
+        "timestampIso": "2024-03-03T23:02:10+00:00",
+        "timestampUnix": 1709506930,
+        "uid": "Hl7loHr88axcMgjgFGgrGQMlKY2"
     }
 }
