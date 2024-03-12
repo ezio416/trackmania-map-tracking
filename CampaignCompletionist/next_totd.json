@@ -13498,5 +13498,15 @@
         "nameRaw": "$o$i$n$ADENOVA AGRI",
         "silverTime": 54000,
         "uid": "Hl7loHr88axcMgjgFGgrGQMlKY2"
+    },
+    "1350": {
+        "authorTime": 42940,
+        "bronzeTime": 65000,
+        "date": "2024-03-12",
+        "goldTime": 46000,
+        "id": "dbaf2be1-1863-4e03-92b1-855d91ed93a5",
+        "nameRaw": "$F93Bocorka $FF0Dreams",
+        "silverTime": 52000,
+        "uid": "FxsiCtN4H9i5hnECwnwjOpITE5c"
     }
 }
