@@ -22580,7 +22580,7 @@
         "authorTime": 42118,
         "bronzeTime": 64000,
         "date": "2024-02-19",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/46cb4069-a678-4d71-927f-82138e26f0e5",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/6bb581d1-f9ea-4ada-a7f1-44888f70b3f6",
         "goldTime": 45000,
         "id": "c43f1aef-d9f0-4061-8731-bb9508a84cf4",
         "nameClean": "Lyser\u00f8d",
@@ -22588,8 +22588,8 @@
         "silverTime": 51000,
         "submitter": "5bd908ca-cfab-4b1f-a818-00444b3920f4",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/99ecf9c5-dbf6-4f1a-9140-1b5588f578a1.jpg",
-        "timestampIso": "2024-02-11T19:50:59+00:00",
-        "timestampUnix": 1707681059,
+        "timestampIso": "2024-03-14T16:26:18+00:00",
+        "timestampUnix": 1710433578,
         "uid": "fFTUvd40Aju5TKrO4iVK55G_fy3"
     },
     "1329": {
@@ -22982,5 +22982,22 @@
         "timestampIso": "2024-03-11T22:21:06+00:00",
         "timestampUnix": 1710195666,
         "uid": "AABt6LZudMynw1HFC8U181NszFh"
+    },
+    "1352": {
+        "author": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
+        "authorTime": 44051,
+        "bronzeTime": 67000,
+        "date": "2024-03-14",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/0f462f5e-c411-4708-b03b-5fcb4159b2d7",
+        "goldTime": 47000,
+        "id": "4bb2da50-68c3-4fcc-b743-9e8ec76c04ae",
+        "nameClean": "Before The Thunder [CE]",
+        "nameRaw": "$FB0$i$o$sBefore The Thunder [CE]",
+        "silverTime": 53000,
+        "submitter": "98befaea-5a4f-409c-b04e-297dc1e1e0e4",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/a7fd8ab1-d046-4d18-9d67-30c4abf944a3.jpg",
+        "timestampIso": "2024-03-10T13:41:34+00:00",
+        "timestampUnix": 1710078094,
+        "uid": "7y9RCD_Iv8hJECZdnpOPPo4rHVd"
     }
 }
