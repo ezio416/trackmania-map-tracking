@@ -23067,5 +23067,22 @@
         "timestampIso": "2024-03-14T22:24:20+00:00",
         "timestampUnix": 1710455060,
         "uid": "Gfbqp0a_s0MOqS_GjzMdo2nZAqm"
+    },
+    "1357": {
+        "author": "78ea3b82-6b61-483f-b683-72fee2e78825",
+        "authorTime": 44394,
+        "bronzeTime": 67000,
+        "date": "2024-03-19",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/80f48c0e-c7ac-418f-80dd-17d297578d8b",
+        "goldTime": 48000,
+        "id": "b0a4d797-cbf4-4f0b-9e50-e8f2530af190",
+        "nameClean": "TurtledSpeed+",
+        "nameRaw": "TurtledSpeed+",
+        "silverTime": 54000,
+        "submitter": "78ea3b82-6b61-483f-b683-72fee2e78825",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/cd49e78a-e687-407a-84cd-cbd4e9dfb9ab.jpg",
+        "timestampIso": "2024-03-08T22:45:07+00:00",
+        "timestampUnix": 1709937907,
+        "uid": "UoD1AaMH8i2WahVTdr5TEnemSx4"
     }
 }
