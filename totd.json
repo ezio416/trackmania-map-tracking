@@ -23118,5 +23118,22 @@
         "timestampIso": "2024-03-10T19:11:27+00:00",
         "timestampUnix": 1710097887,
         "uid": "SnzaLzjSkRl8tMbI49uWsEwK_M1"
+    },
+    "1360": {
+        "author": "d96f567b-0f70-46db-bcca-312e59b41df4",
+        "authorTime": 34385,
+        "bronzeTime": 52000,
+        "date": "2024-03-22",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/ad555fec-163a-4e01-a6b0-32f1c4bafe9c",
+        "goldTime": 37000,
+        "id": "60c2db47-ca55-4714-b3ab-6594f26a9910",
+        "nameClean": "Duckies Kingdom",
+        "nameRaw": "$o$ff3Duckies $o$39fKingdom",
+        "silverTime": 42000,
+        "submitter": "d96f567b-0f70-46db-bcca-312e59b41df4",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/5ca3731c-473f-4c76-be40-e55075a18a7c.jpg",
+        "timestampIso": "2024-03-18T17:35:59+00:00",
+        "timestampUnix": 1710783359,
+        "uid": "FrBcwyKW6jmK3frNcYW5Wisp7F1"
     }
 }
