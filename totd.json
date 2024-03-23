@@ -23124,7 +23124,7 @@
         "authorTime": 34385,
         "bronzeTime": 52000,
         "date": "2024-03-22",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/ad555fec-163a-4e01-a6b0-32f1c4bafe9c",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/87743a94-2f05-41d3-bcb6-4236da23aa5f",
         "goldTime": 37000,
         "id": "60c2db47-ca55-4714-b3ab-6594f26a9910",
         "nameClean": "Duckies Kingdom",
@@ -23132,8 +23132,25 @@
         "silverTime": 42000,
         "submitter": "d96f567b-0f70-46db-bcca-312e59b41df4",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/5ca3731c-473f-4c76-be40-e55075a18a7c.jpg",
-        "timestampIso": "2024-03-18T17:35:59+00:00",
-        "timestampUnix": 1710783359,
+        "timestampIso": "2024-03-23T15:32:16+00:00",
+        "timestampUnix": 1711207936,
         "uid": "FrBcwyKW6jmK3frNcYW5Wisp7F1"
+    },
+    "1361": {
+        "author": "b2aaf54a-2577-4f6b-86a6-cd45779db291",
+        "authorTime": 44890,
+        "bronzeTime": 68000,
+        "date": "2024-03-23",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/a80c7b5b-b5cd-47ed-9ed0-5fa61a3dfede",
+        "goldTime": 48000,
+        "id": "bf6da91a-52d9-4493-98dc-161058fe47ff",
+        "nameClean": "Graslkufs ft' green-K-",
+        "nameRaw": "$i$s$1b1Graslkufs $gft$1b1' $ggreen-K-",
+        "silverTime": 54000,
+        "submitter": "b2aaf54a-2577-4f6b-86a6-cd45779db291",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/7e7f39fd-3d1e-4220-868f-23b03575764d.jpg",
+        "timestampIso": "2024-03-13T18:13:47+00:00",
+        "timestampUnix": 1710353627,
+        "uid": "dCgOKod2_nWL_OlyPtPyqjYAXF4"
     }
 }
