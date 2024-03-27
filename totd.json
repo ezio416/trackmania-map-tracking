@@ -19044,7 +19044,7 @@
         "authorTime": 34770,
         "bronzeTime": 53000,
         "date": "2023-07-26",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/95b1b285-82ba-42b7-b371-3eff28736c19",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/1b189c20-34c4-4df8-9706-ddfdd37b422a",
         "goldTime": 37000,
         "id": "b3688724-d3aa-4019-b9a7-428138885ac4",
         "nameClean": "Revving Up the Bricks",
@@ -19052,8 +19052,8 @@
         "silverTime": 42000,
         "submitter": "c05e95df-bc71-4dc0-a6b6-4ffc0dace3d5",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/95c0b8ca-5592-4b0b-89a7-d74ff552db6f.jpg",
-        "timestampIso": "2024-01-02T22:01:01+00:00",
-        "timestampUnix": 1704232861,
+        "timestampIso": "2024-03-26T20:59:00+00:00",
+        "timestampUnix": 1711486740,
         "uid": "oNw3tKpgiBp66OkGT8G3MlA0es6"
     },
     "1121": {
@@ -23203,5 +23203,22 @@
         "timestampIso": "2024-03-19T20:03:41+00:00",
         "timestampUnix": 1710878621,
         "uid": "FDiOFa7NnDHsLZDDWIXNzaWeUJ6"
+    },
+    "1365": {
+        "author": "907cf2d6-ab34-4ef1-95e3-c8771b81ba49",
+        "authorTime": 39974,
+        "bronzeTime": 60000,
+        "date": "2024-03-27",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/cec13307-568d-4b6f-a111-339346070904",
+        "goldTime": 43000,
+        "id": "f20a4f67-a5e0-41d9-94c9-50bb52f21571",
+        "nameClean": "TICKLED PINK",
+        "nameRaw": "$F9CT$F7DI$F5DC$F4EK$F2EL$F0FE$F0FD$F0E $F0DP$F0BI$F0AN$F09K",
+        "silverTime": 48000,
+        "submitter": "907cf2d6-ab34-4ef1-95e3-c8771b81ba49",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/94bd3000-2e22-41cb-85a3-b44e2c87ef05.jpg",
+        "timestampIso": "2024-03-24T20:02:15+00:00",
+        "timestampUnix": 1711310535,
+        "uid": "ePqDJK1nzeaxbQHFw1NxPjtjHOb"
     }
 }
