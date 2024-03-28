@@ -13658,5 +13658,15 @@
         "nameRaw": "$F9CT$F7DI$F5DC$F4EK$F2EL$F0FE$F0FD$F0E $F0DP$F0BI$F0AN$F09K",
         "silverTime": 48000,
         "uid": "ePqDJK1nzeaxbQHFw1NxPjtjHOb"
+    },
+    "1366": {
+        "authorTime": 42768,
+        "bronzeTime": 65000,
+        "date": "2024-03-28",
+        "goldTime": 46000,
+        "id": "127a3de5-d250-48dc-be75-a6d29f81d9d5",
+        "nameRaw": "$o$FC0Close$FFFCombat",
+        "silverTime": 52000,
+        "uid": "k2Sl3jpgWdmNoai_k5VUU3YAqb2"
     }
 }
