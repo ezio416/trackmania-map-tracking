@@ -23237,5 +23237,22 @@
         "timestampIso": "2024-03-20T12:34:18+00:00",
         "timestampUnix": 1710938058,
         "uid": "k2Sl3jpgWdmNoai_k5VUU3YAqb2"
+    },
+    "1367": {
+        "author": "3b417a4c-c190-4951-90f4-6454e4475740",
+        "authorTime": 40000,
+        "bronzeTime": 61000,
+        "date": "2024-03-29",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/80d34bca-eace-4e03-bf08-f0560c0a318e",
+        "goldTime": 43000,
+        "id": "7e1c59cd-d486-4e35-9ba9-59f0def8a721",
+        "nameClean": "Mango",
+        "nameRaw": "$i$s$o$ff0Mango",
+        "silverTime": 49000,
+        "submitter": "3b417a4c-c190-4951-90f4-6454e4475740",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/d750054a-2e0d-4ef9-b12e-2be6f39686e7.jpg",
+        "timestampIso": "2024-03-20T18:54:32+00:00",
+        "timestampUnix": 1710960872,
+        "uid": "loewi7bODBMwNnC5cMKpS6xSqY8"
     }
 }
