@@ -23243,7 +23243,7 @@
         "authorTime": 40000,
         "bronzeTime": 61000,
         "date": "2024-03-29",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/80d34bca-eace-4e03-bf08-f0560c0a318e",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/a3af538e-9a3d-4722-b5cd-111b6939afac",
         "goldTime": 43000,
         "id": "7e1c59cd-d486-4e35-9ba9-59f0def8a721",
         "nameClean": "Mango",
@@ -23251,8 +23251,25 @@
         "silverTime": 49000,
         "submitter": "3b417a4c-c190-4951-90f4-6454e4475740",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/d750054a-2e0d-4ef9-b12e-2be6f39686e7.jpg",
-        "timestampIso": "2024-03-20T18:54:32+00:00",
-        "timestampUnix": 1710960872,
+        "timestampIso": "2024-03-30T10:49:06+00:00",
+        "timestampUnix": 1711795746,
         "uid": "loewi7bODBMwNnC5cMKpS6xSqY8"
+    },
+    "1368": {
+        "author": "73eba009-a074-4439-916f-d25d7fa7bc1c",
+        "authorTime": 58558,
+        "bronzeTime": 88000,
+        "date": "2024-03-30",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/ace384d2-97db-40be-a81d-9bef78e24280",
+        "goldTime": 63000,
+        "id": "78990f53-6d89-4fb0-9455-4d44f4642c2f",
+        "nameClean": "Formula E - Tokyo E-Prix",
+        "nameRaw": "$05fFormula E $fff- $fbaTokyo $d42E-Prix",
+        "silverTime": 71000,
+        "submitter": "7ad33388-641e-4497-b063-c88e75552645",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/608413d7-0bcb-433c-aa01-ae9c1dc11f6f.jpg",
+        "timestampIso": "2024-03-21T14:44:11+00:00",
+        "timestampUnix": 1711032251,
+        "uid": "QmxX5iNQbLTf5wZZuaTwGyOMwhm"
     }
 }
