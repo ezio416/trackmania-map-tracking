@@ -13688,5 +13688,15 @@
         "nameRaw": "$05fFormula E $fff- $fbaTokyo $d42E-Prix",
         "silverTime": 71000,
         "uid": "QmxX5iNQbLTf5wZZuaTwGyOMwhm"
+    },
+    "1369": {
+        "authorTime": 44662,
+        "bronzeTime": 67000,
+        "date": "2024-03-31",
+        "goldTime": 48000,
+        "id": "98fc83f7-3f66-40e2-9230-3e14a9ad054c",
+        "nameRaw": "$s$o$nOutpost- $960OAS$9ffI$960S",
+        "silverTime": 54000,
+        "uid": "4iUYCdwDSUB6G5Lv5Dmss6Q97h2"
     }
 }
