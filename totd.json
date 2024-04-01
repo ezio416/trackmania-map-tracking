@@ -22495,7 +22495,7 @@
         "authorTime": 59578,
         "bronzeTime": 90000,
         "date": "2024-02-14",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/c57d61ac-556f-4045-8112-a6d1e355f457",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/0be43911-c6a7-42fc-bdb5-0b9c49f8cb65",
         "goldTime": 64000,
         "id": "6535bf54-d0d7-46e1-b489-b0ec28cc1434",
         "nameClean": "Jaded",
@@ -22503,8 +22503,8 @@
         "silverTime": 72000,
         "submitter": "f6ee9c18-bdb5-4819-86e8-c6e4ce561a1f",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/f74ca646-a0f7-4082-aa2c-832f56a3c5a7.jpg",
-        "timestampIso": "2024-02-05T23:44:54+00:00",
-        "timestampUnix": 1707176694,
+        "timestampIso": "2024-03-31T22:23:27+00:00",
+        "timestampUnix": 1711923807,
         "uid": "yEvPk7Tzo7zVwr3mrfawAY90775"
     },
     "1324": {
@@ -23288,5 +23288,22 @@
         "timestampIso": "2024-03-16T04:52:33+00:00",
         "timestampUnix": 1710564753,
         "uid": "4iUYCdwDSUB6G5Lv5Dmss6Q97h2"
+    },
+    "1370": {
+        "author": "962a2970-ac04-4475-885f-4dc1376fc062",
+        "authorTime": 42358,
+        "bronzeTime": 64000,
+        "date": "2024-04-01",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/3f494e60-a472-4b17-af14-dda35c3a7e92",
+        "goldTime": 45000,
+        "id": "a18ee7a3-1a80-4672-b2d4-dc3aa33dd029",
+        "nameClean": "Mystery Route",
+        "nameRaw": "Mystery Route",
+        "silverTime": 51000,
+        "submitter": "962a2970-ac04-4475-885f-4dc1376fc062",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/a0f156af-b093-495f-a942-e362d6f05b7f.jpg",
+        "timestampIso": "2024-03-28T00:32:12+00:00",
+        "timestampUnix": 1711585932,
+        "uid": "zocZ9UhmVi3giq1wJXEjBQQXgxl"
     }
 }
