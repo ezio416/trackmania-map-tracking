@@ -23424,5 +23424,22 @@
         "timestampIso": "2024-03-30T20:42:33+00:00",
         "timestampUnix": 1711831353,
         "uid": "Mr5eiF6e6OErbJcv3xyFb7TfJ93"
+    },
+    "1378": {
+        "author": "c8a25ce4-3a28-4c70-be13-598ae3618d27",
+        "authorTime": 47507,
+        "bronzeTime": 72000,
+        "date": "2024-04-09",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/c30ca766-4733-4796-a8ad-43241a5f1d50",
+        "goldTime": 51000,
+        "id": "30436593-4a29-4e40-928a-78f79d727827",
+        "nameClean": "Grysskaal",
+        "nameRaw": "$777Gryss$777k$A85a$C82a$F90l",
+        "silverTime": 58000,
+        "submitter": "c8a25ce4-3a28-4c70-be13-598ae3618d27",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/5c8967c4-438f-4e28-a26d-c75e779a0d62.jpg",
+        "timestampIso": "2024-04-03T17:08:26+00:00",
+        "timestampUnix": 1712164106,
+        "uid": "mojSn54QISBfgB6u088cSIDIks1"
     }
 }
