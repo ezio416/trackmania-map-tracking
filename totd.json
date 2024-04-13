@@ -23492,5 +23492,22 @@
         "timestampIso": "2024-04-08T17:50:04+00:00",
         "timestampUnix": 1712598604,
         "uid": "KDBodE7344xI__M3dRXmXXN9nFd"
+    },
+    "1382": {
+        "author": "9187ac62-fb90-47e1-bec9-aae2d0cf4310",
+        "authorTime": 41282,
+        "bronzeTime": 62000,
+        "date": "2024-04-13",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/2a342b62-6ea3-468d-94a2-3a9d7459bb37",
+        "goldTime": 46000,
+        "id": "37c3f910-4e3d-43fa-9780-bec0f1f5bde2",
+        "nameClean": "Canyon Cascade",
+        "nameRaw": "$F21Canyon $F51Cascade",
+        "silverTime": 52000,
+        "submitter": "9187ac62-fb90-47e1-bec9-aae2d0cf4310",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/7ebc3260-7a59-43f3-8882-e388f681d8bf.jpg",
+        "timestampIso": "2024-04-02T01:10:44+00:00",
+        "timestampUnix": 1712020244,
+        "uid": "Qy345pWg821zDyIg3DvZdD54_yj"
     }
 }
