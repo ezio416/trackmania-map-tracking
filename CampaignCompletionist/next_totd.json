@@ -13888,5 +13888,15 @@
         "nameRaw": "$F6FE$E7Fl$D8Fec$C9Ft$BAFr$ABFo$9CFp$8DFol$7EFi$6FFs",
         "silverTime": 54000,
         "uid": "8e7QRfq2_il3j_1iowHimBmvmqg"
+    },
+    "1389": {
+        "authorTime": 42825,
+        "bronzeTime": 65000,
+        "date": "2024-04-20",
+        "goldTime": 46000,
+        "id": "45b13ecf-0154-4819-88e6-cbbd6994f390",
+        "nameRaw": "silent tempest",
+        "silverTime": 52000,
+        "uid": "aCPU7gHqoAFqEHh8RrZ4itA6iKa"
     }
 }
