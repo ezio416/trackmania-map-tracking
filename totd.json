@@ -23730,5 +23730,22 @@
         "timestampIso": "2024-04-21T11:11:39+00:00",
         "timestampUnix": 1713697899,
         "uid": "QDFECXWbKohgf4Z0XOdF4wJ3XBc"
+    },
+    "1396": {
+        "author": "e741bf5c-421f-4dcd-a995-c6a9ae700a27",
+        "authorTime": 51645,
+        "bronzeTime": 78000,
+        "date": "2024-04-27",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/a3c2ba69-f792-49ff-90ff-d40831ac000e",
+        "goldTime": 55000,
+        "id": "0ee62674-0942-4357-8459-765358398e91",
+        "nameClean": "Rollercoaster Beach",
+        "nameRaw": "$o$f00Rollercoaster $cc2Beach",
+        "silverTime": 62000,
+        "submitter": "e741bf5c-421f-4dcd-a995-c6a9ae700a27",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/aebe7b8f-c9a9-4912-a750-5ddc854c92ff.jpg",
+        "timestampIso": "2024-04-12T02:11:32+00:00",
+        "timestampUnix": 1712887892,
+        "uid": "SosNYWSifhzF8ZPXi9Vy_rq5VGd"
     }
 }
