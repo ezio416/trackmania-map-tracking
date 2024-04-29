@@ -21152,7 +21152,7 @@
         "authorTime": 45000,
         "bronzeTime": 68000,
         "date": "2023-11-27",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/20773aa8-ee8d-4bdd-aa73-6168f046d45e",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/f04452ab-d390-4bfd-ba9a-2d2f02f50d3d",
         "goldTime": 48000,
         "id": "43baa9b0-abd5-4122-806b-3ffc68fbf34a",
         "nameClean": "SN\u00d8FNUGG",
@@ -21160,8 +21160,8 @@
         "silverTime": 55000,
         "submitter": "bfcf62ff-0f9e-40aa-b924-11b9c70b8a09",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/d5a2f0af-ad2f-43ec-ba55-3f4aa7d6e0c0.jpg",
-        "timestampIso": "2023-11-17T23:10:24+00:00",
-        "timestampUnix": 1700262624,
+        "timestampIso": "2024-04-29T02:26:10+00:00",
+        "timestampUnix": 1714357570,
         "uid": "ASNJD35gFp5__iZTCDrKFgxMm32"
     },
     "1245": {
@@ -23764,5 +23764,22 @@
         "timestampIso": "2024-04-17T21:10:08+00:00",
         "timestampUnix": 1713388208,
         "uid": "It_J5Od26J9LaHnrrmTv7kM0G20"
+    },
+    "1398": {
+        "author": "0bd32607-2b58-4a9f-b213-0037322510c1",
+        "authorTime": 44362,
+        "bronzeTime": 67000,
+        "date": "2024-04-29",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/a23e5932-1019-4609-9df3-bf02bdc3dd72",
+        "goldTime": 48000,
+        "id": "998a39fe-2f26-4cb8-a595-44bc001c081d",
+        "nameClean": "Magnesium",
+        "nameRaw": "Magnesium",
+        "silverTime": 54000,
+        "submitter": "0bd32607-2b58-4a9f-b213-0037322510c1",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/5425942d-aa25-4412-8503-c2c4defc0b5f.jpg",
+        "timestampIso": "2024-04-27T02:06:42+00:00",
+        "timestampUnix": 1714183602,
+        "uid": "Y4ohuS40Twx43SSnVDhpYlmsyLd"
     }
 }
