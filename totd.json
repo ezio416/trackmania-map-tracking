@@ -23781,5 +23781,22 @@
         "timestampIso": "2024-04-27T02:06:42+00:00",
         "timestampUnix": 1714183602,
         "uid": "Y4ohuS40Twx43SSnVDhpYlmsyLd"
+    },
+    "1399": {
+        "author": "3c7699e6-3e08-406a-90fa-9affe0d46a8c",
+        "authorTime": 44367,
+        "bronzeTime": 67000,
+        "date": "2024-04-30",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/f336d2c8-0284-4794-aff4-5a42e3370737",
+        "goldTime": 48000,
+        "id": "8383ceb9-dfb8-4b80-9c3a-76b1efdf5f9d",
+        "nameClean": "Radioactive Ruinzzz",
+        "nameRaw": "$9F0 Radioactive $000Ruinzzz",
+        "silverTime": 54000,
+        "submitter": "3c7699e6-3e08-406a-90fa-9affe0d46a8c",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/9feee927-853d-478b-a8db-6609873b641e.jpg",
+        "timestampIso": "2024-04-21T21:11:55+00:00",
+        "timestampUnix": 1713733915,
+        "uid": "lnzRsDfYVKf3Ewg9Z_BOfeaJL2b"
     }
 }
