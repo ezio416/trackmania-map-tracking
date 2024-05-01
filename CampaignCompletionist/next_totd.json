@@ -13998,5 +13998,15 @@
         "nameRaw": "$9F0 Radioactive $000Ruinzzz",
         "silverTime": 54000,
         "uid": "lnzRsDfYVKf3Ewg9Z_BOfeaJL2b"
+    },
+    "1400": {
+        "authorTime": 35108,
+        "bronzeTime": 53000,
+        "date": "2024-05-01",
+        "goldTime": 38000,
+        "id": "e12b364f-213f-476e-8e02-041220395d58",
+        "nameRaw": "$60C$sFloor$FFFOfThe$60CDay",
+        "silverTime": 43000,
+        "uid": "XkNEDQ6vfGHnKiPTBau02KzzVd4"
     }
 }
