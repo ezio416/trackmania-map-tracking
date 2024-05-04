@@ -14018,5 +14018,25 @@
         "nameRaw": "$o$n$60Fa$41En$22Do$03Cm$03Ca$03Bl$039y",
         "silverTime": 59000,
         "uid": "rptH2ddUQYN_Mo5mLvtmKyluBjk"
+    },
+    "1402": {
+        "authorTime": 46783,
+        "bronzeTime": 71000,
+        "date": "2024-05-03",
+        "goldTime": 50000,
+        "id": "95b96c21-5dd7-42b2-8c1c-45840883608d",
+        "nameRaw": "Calm Before the Storm",
+        "silverTime": 57000,
+        "uid": "E2QnwL2w0iWl8jCxJN91x1VyIy8"
+    },
+    "1403": {
+        "authorTime": 46988,
+        "bronzeTime": 71000,
+        "date": "2024-05-04",
+        "goldTime": 50000,
+        "id": "617135bb-8572-4489-bd8f-d9775b6cc1b6",
+        "nameRaw": "XOR ft' Norbinarius",
+        "silverTime": 57000,
+        "uid": "XWZlbjZrjaCx23DA7AuPEMK48R4"
     }
 }

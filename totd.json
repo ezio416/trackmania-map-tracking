@@ -23770,7 +23770,7 @@
         "authorTime": 44362,
         "bronzeTime": 67000,
         "date": "2024-04-29",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/a23e5932-1019-4609-9df3-bf02bdc3dd72",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/d461224f-e87c-4d5a-94cf-fb1d356a3bac",
         "goldTime": 48000,
         "id": "998a39fe-2f26-4cb8-a595-44bc001c081d",
         "nameClean": "Magnesium",
@@ -23778,8 +23778,8 @@
         "silverTime": 54000,
         "submitter": "0bd32607-2b58-4a9f-b213-0037322510c1",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/5425942d-aa25-4412-8503-c2c4defc0b5f.jpg",
-        "timestampIso": "2024-04-27T02:06:42+00:00",
-        "timestampUnix": 1714183602,
+        "timestampIso": "2024-05-02T20:20:39+00:00",
+        "timestampUnix": 1714681239,
         "uid": "Y4ohuS40Twx43SSnVDhpYlmsyLd"
     },
     "1399": {
@@ -23832,5 +23832,39 @@
         "timestampIso": "2024-05-01T11:50:42+00:00",
         "timestampUnix": 1714564242,
         "uid": "rptH2ddUQYN_Mo5mLvtmKyluBjk"
+    },
+    "1402": {
+        "author": "ad6b44c0-091c-4183-8f60-af61ffec2f8a",
+        "authorTime": 46783,
+        "bronzeTime": 71000,
+        "date": "2024-05-03",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/ff36be51-60d7-4f73-ad6b-1e6a7e551b71",
+        "goldTime": 50000,
+        "id": "95b96c21-5dd7-42b2-8c1c-45840883608d",
+        "nameClean": "Calm Before the Storm",
+        "nameRaw": "Calm Before the Storm",
+        "silverTime": 57000,
+        "submitter": "7cd60a75-609a-4e64-b286-16f329878249",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/6a290644-7c0c-4c5a-aff7-6d03c91ce0d4.jpg",
+        "timestampIso": "2024-04-25T12:15:03+00:00",
+        "timestampUnix": 1714047303,
+        "uid": "E2QnwL2w0iWl8jCxJN91x1VyIy8"
+    },
+    "1403": {
+        "author": "8b23a52e-a6fb-4cc9-a53b-0c46c08768fa",
+        "authorTime": 46988,
+        "bronzeTime": 71000,
+        "date": "2024-05-04",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/af26976f-4656-4c18-a458-a49084ff2ba4",
+        "goldTime": 50000,
+        "id": "617135bb-8572-4489-bd8f-d9775b6cc1b6",
+        "nameClean": "XOR ft' Norbinarius",
+        "nameRaw": "XOR ft' Norbinarius",
+        "silverTime": 57000,
+        "submitter": "8b23a52e-a6fb-4cc9-a53b-0c46c08768fa",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/ed63935d-7d7e-45a7-904f-cfdfe00afc2a.jpg",
+        "timestampIso": "2024-05-04T16:32:55+00:00",
+        "timestampUnix": 1714840375,
+        "uid": "XWZlbjZrjaCx23DA7AuPEMK48R4"
     }
 }
