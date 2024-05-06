@@ -14048,5 +14048,15 @@
         "nameRaw": "$o$i$0c4P$fffolygon $0c4V$fffalley",
         "silverTime": 56000,
         "uid": "AqVvkb0DwSBYoe0XqlExDt_Y7Ge"
+    },
+    "1405": {
+        "authorTime": 44702,
+        "bronzeTime": 68000,
+        "date": "2024-05-06",
+        "goldTime": 48000,
+        "id": "9a1ccac3-094d-4d1c-a568-827720fd965d",
+        "nameRaw": "$eee$i$sBelgica $s$000|$ff0|$f00| $s$fff2086",
+        "silverTime": 54000,
+        "uid": "BNcBKElqCGsSUVWAKUnKzqsUZDa"
     }
 }
