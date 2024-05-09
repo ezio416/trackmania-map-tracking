@@ -19384,7 +19384,7 @@
         "authorTime": 42582,
         "bronzeTime": 64000,
         "date": "2023-08-15",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/6f54aa31-b47b-450b-b66d-d7a614f212aa",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/30551d8a-7b34-4e52-9a40-30c63571d48f",
         "goldTime": 46000,
         "id": "db370f27-e106-4b80-a782-832512efc88a",
         "nameClean": "Aeronautica Ft Oclavukixus",
@@ -19392,8 +19392,8 @@
         "silverTime": 52000,
         "submitter": "be326ab8-b196-4fb0-9719-a1a6a6ffdd59",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/49dfa055-1f34-47d3-b9dd-54ed20c969cc.jpg",
-        "timestampIso": "2023-07-24T14:07:38+00:00",
-        "timestampUnix": 1690207658,
+        "timestampIso": "2024-05-09T16:01:55+00:00",
+        "timestampUnix": 1715270515,
         "uid": "r9XeU9xzFa4Dk7JbCPHMygECgC7"
     },
     "1141": {
@@ -21356,7 +21356,7 @@
         "authorTime": 41827,
         "bronzeTime": 63000,
         "date": "2023-12-09",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/d389f899-9f14-441b-8c48-8aa8a2f6eeb2",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/37fe65a4-cc42-46e5-a354-5b42bbceb783",
         "goldTime": 45000,
         "id": "c3f3f3fc-d947-4c3b-ae67-79eae4496fa5",
         "nameClean": "Dolphin Lagoon ft Oclavukixus",
@@ -21364,8 +21364,8 @@
         "silverTime": 51000,
         "submitter": "be326ab8-b196-4fb0-9719-a1a6a6ffdd59",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/320d1bb8-ab79-4601-95a5-a3dc22224120.jpg",
-        "timestampIso": "2023-12-30T22:36:02+00:00",
-        "timestampUnix": 1703975762,
+        "timestampIso": "2024-05-09T16:01:55+00:00",
+        "timestampUnix": 1715270515,
         "uid": "7yacbBLCxzd2rlxuEpx0Zak7kSf"
     },
     "1257": {
@@ -22614,7 +22614,7 @@
         "authorTime": 42942,
         "bronzeTime": 65000,
         "date": "2024-02-21",
-        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/a3e47ff6-b496-4243-8f45-734f0ebc83bd",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/a312921e-4c04-4c47-9b37-54dc683e38c7",
         "goldTime": 46000,
         "id": "4e2590fe-5c21-4ce6-9320-e1d6e57a94c7",
         "nameClean": "Cinematica ft Microvert",
@@ -22622,8 +22622,8 @@
         "silverTime": 52000,
         "submitter": "be326ab8-b196-4fb0-9719-a1a6a6ffdd59",
         "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/df1982ce-9367-48dc-9fef-40a5a8a546de.jpg",
-        "timestampIso": "2024-04-27T20:15:42+00:00",
-        "timestampUnix": 1714248942,
+        "timestampIso": "2024-05-09T16:01:55+00:00",
+        "timestampUnix": 1715270515,
         "uid": "DyOwb0mg48FEJFj0CQsBZ5kH4wa"
     },
     "1331": {
@@ -23934,5 +23934,22 @@
         "timestampIso": "2024-05-05T04:08:33+00:00",
         "timestampUnix": 1714882113,
         "uid": "2lr_Uhz012JtaEjo62iwxtmyad2"
+    },
+    "1408": {
+        "author": "7818b1ab-283b-4348-b2af-89a793b0928b",
+        "authorTime": 39000,
+        "bronzeTime": 50000,
+        "date": "2024-05-09",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/2f9f2dc5-1beb-4a87-bcc9-22d07057d95b",
+        "goldTime": 42000,
+        "id": "0ccdb58d-b612-46e2-a969-958935e457dd",
+        "nameClean": "Trinity of Trackmania",
+        "nameRaw": "$o$FFFTrinity of $FF5Trackmania",
+        "silverTime": 45000,
+        "submitter": "7818b1ab-283b-4348-b2af-89a793b0928b",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/79dde185-faed-4f9f-9d19-602dfc33925c.jpg",
+        "timestampIso": "2024-05-03T14:05:15+00:00",
+        "timestampUnix": 1714745115,
+        "uid": "4OEpEBWyeZKbgvaycNXGRCu33Ud"
     }
 }

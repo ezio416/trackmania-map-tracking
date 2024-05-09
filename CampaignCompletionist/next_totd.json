@@ -14078,5 +14078,15 @@
         "nameRaw": "Old School $FF02020",
         "silverTime": 60000,
         "uid": "2lr_Uhz012JtaEjo62iwxtmyad2"
+    },
+    "1408": {
+        "authorTime": 39000,
+        "bronzeTime": 50000,
+        "date": "2024-05-09",
+        "goldTime": 42000,
+        "id": "0ccdb58d-b612-46e2-a969-958935e457dd",
+        "nameRaw": "$o$FFFTrinity of $FF5Trackmania",
+        "silverTime": 45000,
+        "uid": "4OEpEBWyeZKbgvaycNXGRCu33Ud"
     }
 }
