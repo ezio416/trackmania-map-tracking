@@ -24087,5 +24087,22 @@
         "timestampIso": "2024-04-28T23:17:46+00:00",
         "timestampUnix": 1714346266,
         "uid": "bWQ_dTVCbxj7qYjSaUD6IepexCi"
+    },
+    "1417": {
+        "author": "9ea5cfa7-0af0-4115-90da-1e516f8be79e",
+        "authorTime": 40502,
+        "bronzeTime": 60000,
+        "date": "2024-05-18",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/155481b2-de3e-4845-b856-3d9896dd5838",
+        "goldTime": 42000,
+        "id": "0b707896-5bc3-4707-afcd-92b0dd1988c1",
+        "nameClean": "Southern Horizons",
+        "nameRaw": "$063So$064u$074t$075he$076rn$086 H$087or$088iz$098o$0a9ns",
+        "silverTime": 47000,
+        "submitter": "9ea5cfa7-0af0-4115-90da-1e516f8be79e",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/95e908ab-17f0-4750-928b-5bb3798314e9.jpg",
+        "timestampIso": "2024-05-07T16:30:19+00:00",
+        "timestampUnix": 1715099419,
+        "uid": "KPGzxCBK39i73K39n4ckFAq5Dl4"
     }
 }
