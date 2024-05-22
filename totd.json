@@ -24155,5 +24155,22 @@
         "timestampIso": "2024-05-11T16:31:31+00:00",
         "timestampUnix": 1715445091,
         "uid": "aiiXYKL_B3u3QRbLWuvF6cUsf84"
+    },
+    "1421": {
+        "author": "a07f01cd-afb0-4230-9c13-868c1ede28a3",
+        "authorTime": 47405,
+        "bronzeTime": 72000,
+        "date": "2024-05-22",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/994632c5-18bc-4fd9-836f-1b8a6c9aa363",
+        "goldTime": 51000,
+        "id": "c674e5e7-7ff3-4cf1-b681-9c182a05493f",
+        "nameClean": "Retro Revival",
+        "nameRaw": "$o$F93R$FA3et$FB2ro$FC2 R$FD1ev$FE1iv$FF0al",
+        "silverTime": 57000,
+        "submitter": "a07f01cd-afb0-4230-9c13-868c1ede28a3",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/3cbcd3b4-f09a-43f5-ac55-8fa0c2cc1215.jpg",
+        "timestampIso": "2024-05-22T07:34:39+00:00",
+        "timestampUnix": 1716363279,
+        "uid": "q43LtVziQ9odgxpAGzDE6ixPJ72"
     }
 }
