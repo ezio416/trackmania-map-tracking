@@ -24172,5 +24172,22 @@
         "timestampIso": "2024-05-22T07:34:39+00:00",
         "timestampUnix": 1716363279,
         "uid": "q43LtVziQ9odgxpAGzDE6ixPJ72"
+    },
+    "1422": {
+        "author": "e57ec560-faa8-4f25-a75b-c7e9caf0afe5",
+        "authorTime": 48333,
+        "bronzeTime": 73000,
+        "date": "2024-05-23",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/ec77a02b-4229-4a9e-bf95-4b300d4316c1",
+        "goldTime": 52000,
+        "id": "4a5068bc-b9fd-41a8-88e1-55c68bbad4bb",
+        "nameClean": "Triple Threat",
+        "nameRaw": "Triple Threat",
+        "silverTime": 58000,
+        "submitter": "e57ec560-faa8-4f25-a75b-c7e9caf0afe5",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/d319960d-68b1-4bff-a156-69dbe1e05a33.jpg",
+        "timestampIso": "2024-05-21T22:56:23+00:00",
+        "timestampUnix": 1716332183,
+        "uid": "CVCgkk3UUjlFPO6Nn8N0lirBcig"
     }
 }

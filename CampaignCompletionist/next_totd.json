@@ -14218,5 +14218,15 @@
         "nameRaw": "$o$F93R$FA3et$FB2ro$FC2 R$FD1ev$FE1iv$FF0al",
         "silverTime": 57000,
         "uid": "q43LtVziQ9odgxpAGzDE6ixPJ72"
+    },
+    "1422": {
+        "authorTime": 48333,
+        "bronzeTime": 73000,
+        "date": "2024-05-23",
+        "goldTime": 52000,
+        "id": "4a5068bc-b9fd-41a8-88e1-55c68bbad4bb",
+        "nameRaw": "Triple Threat",
+        "silverTime": 58000,
+        "uid": "CVCgkk3UUjlFPO6Nn8N0lirBcig"
     }
 }
