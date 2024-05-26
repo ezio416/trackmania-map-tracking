@@ -14248,5 +14248,15 @@
         "nameRaw": "Misty Morning",
         "silverTime": 44500,
         "uid": "Cu1lHhE1UTwwddPvxzgCt_IHaX9"
+    },
+    "1425": {
+        "authorTime": 58248,
+        "bronzeTime": 88000,
+        "date": "2024-05-26",
+        "goldTime": 62000,
+        "id": "fe392a7a-a3f2-4619-9a41-c3cd0cd86f25",
+        "nameRaw": "$o$FF0Banana $DDDMeltdown",
+        "silverTime": 70000,
+        "uid": "wNqx0QzHK7vwHWYfo_vzp6ODwKb"
     }
 }

@@ -24223,5 +24223,22 @@
         "timestampIso": "2024-05-14T21:54:29+00:00",
         "timestampUnix": 1715723669,
         "uid": "Cu1lHhE1UTwwddPvxzgCt_IHaX9"
+    },
+    "1425": {
+        "author": "02ffe7da-3eaa-4ffe-a2de-155bc8638af9",
+        "authorTime": 58248,
+        "bronzeTime": 88000,
+        "date": "2024-05-26",
+        "downloadUrl": "https://core.trackmania.nadeo.live/storageObjects/82501b85-eb9b-4f10-a3d5-1afd563fe3b4",
+        "goldTime": 62000,
+        "id": "fe392a7a-a3f2-4619-9a41-c3cd0cd86f25",
+        "nameClean": "Banana Meltdown",
+        "nameRaw": "$o$FF0Banana $DDDMeltdown",
+        "silverTime": 70000,
+        "submitter": "7cd60a75-609a-4e64-b286-16f329878249",
+        "thumbnailUrl": "https://core.trackmania.nadeo.live/storageObjects/41c48531-0626-4be6-bede-331cabc15271.jpg",
+        "timestampIso": "2024-05-23T08:58:51+00:00",
+        "timestampUnix": 1716454731,
+        "uid": "wNqx0QzHK7vwHWYfo_vzp6ODwKb"
     }
 }
