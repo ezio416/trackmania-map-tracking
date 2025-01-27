@@ -35089,5 +35089,26 @@
         "timestampUpload": 1736362850,
         "weekDay": 6,
         "year": 2025
+    },
+    "Ao2HoATAyxYWVZNwqaapgUhrWd2": {
+        "author": "f61cfc67-350f-4ec3-9c54-8959e80c2372",
+        "authorTime": 39997,
+        "bronzeTime": 60000,
+        "campaignId": 87418,
+        "goldTime": 43000,
+        "mapId": "421a5cff-56a1-4ed6-b921-a212b6ec08ec",
+        "mapUid": "Ao2HoATAyxYWVZNwqaapgUhrWd2",
+        "month": 1,
+        "monthDay": 27,
+        "name": "$s$3C0Emerald $0C6Falls $gft $3c0Ocla$0c6vuki$060xus",
+        "number": 1672,
+        "seasonUid": "20cd3437-5438-4d36-a47a-b1d62deda0ab",
+        "silverTime": 48000,
+        "submitter": "f61cfc67-350f-4ec3-9c54-8959e80c2372",
+        "timestampEnd": 1738087200,
+        "timestampStart": 1738000800,
+        "timestampUpload": 1734449054,
+        "weekDay": 0,
+        "year": 2025
     }
 }
