@@ -4789,8 +4789,8 @@
             "name": "Boost",
             "number": 4,
             "reason": null,
-            "warriorTime": 10768,
-            "worldRecord": 7231
+            "warriorTime": 7162,
+            "worldRecord": 20
         },
         {
             "authorTime": 22752,
@@ -5009,8 +5009,8 @@
             "name": "$s$FC0K$FFFSHORT #42",
             "number": 26,
             "reason": null,
-            "warriorTime": 8592,
-            "worldRecord": -1
+            "warriorTime": 16739,
+            "worldRecord": 16292
         },
         {
             "authorTime": 16585,
@@ -5019,8 +5019,8 @@
             "name": "Down",
             "number": 27,
             "reason": null,
-            "warriorTime": 8292,
-            "worldRecord": -1
+            "warriorTime": 15730,
+            "worldRecord": 14875
         },
         {
             "authorTime": 20478,
@@ -5029,8 +5029,8 @@
             "name": "$CCCGr$BBCa$BBBn$ABBi$AABte$9AA $99AH$89Ail$789ls",
             "number": 28,
             "reason": null,
-            "warriorTime": 10239,
-            "worldRecord": -1
+            "warriorTime": 19943,
+            "worldRecord": 19408
         },
         {
             "authorTime": 10495,
@@ -5039,8 +5039,8 @@
             "name": "Lily Hopping",
             "number": 29,
             "reason": null,
-            "warriorTime": 5247,
-            "worldRecord": -1
+            "warriorTime": 10195,
+            "worldRecord": 9895
         },
         {
             "authorTime": 30730,
@@ -5049,7 +5049,57 @@
             "name": "Wet Road Race 4",
             "number": 30,
             "reason": null,
-            "warriorTime": 15365,
+            "warriorTime": 29924,
+            "worldRecord": 29118
+        },
+        {
+            "authorTime": 21730,
+            "custom": null,
+            "mapUid": "mztL5l2wa7JqshOhkY94h2TpSIg",
+            "name": "$s$iClearly Short $f90#$fff001",
+            "number": 31,
+            "reason": null,
+            "warriorTime": 10865,
+            "worldRecord": -1
+        },
+        {
+            "authorTime": 22543,
+            "custom": null,
+            "mapUid": "6ZYlBN86N698I3syPJmTdN_2kk8",
+            "name": "Sub-20 Sunken Castle",
+            "number": 32,
+            "reason": null,
+            "warriorTime": 11271,
+            "worldRecord": -1
+        },
+        {
+            "authorTime": 19609,
+            "custom": null,
+            "mapUid": "FspbMuKCvJagsOOl9imeXvk1CD0",
+            "name": "Hurt",
+            "number": 33,
+            "reason": null,
+            "warriorTime": 9804,
+            "worldRecord": -1
+        },
+        {
+            "authorTime": 20376,
+            "custom": null,
+            "mapUid": "LLZuXrl3AuALnoRvMEFgvr7UE1f",
+            "name": "$o$6FFBibidiba $0CFBidiboop",
+            "number": 34,
+            "reason": null,
+            "warriorTime": 10188,
+            "worldRecord": -1
+        },
+        {
+            "authorTime": 19979,
+            "custom": null,
+            "mapUid": "8_zup1DPaX9y1bifmKSmGaeCAO4",
+            "name": "GAZON",
+            "number": 35,
+            "reason": null,
+            "warriorTime": 9989,
             "worldRecord": -1
         }
     ],
