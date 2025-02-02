@@ -5051,6 +5051,56 @@
             "reason": null,
             "warriorTime": 29924,
             "worldRecord": 29118
+        },
+        {
+            "authorTime": 21730,
+            "custom": null,
+            "mapUid": "mztL5l2wa7JqshOhkY94h2TpSIg",
+            "name": "$s$iClearly Short $f90#$fff001",
+            "number": 31,
+            "reason": null,
+            "warriorTime": 20574,
+            "worldRecord": 19417
+        },
+        {
+            "authorTime": 22543,
+            "custom": null,
+            "mapUid": "6ZYlBN86N698I3syPJmTdN_2kk8",
+            "name": "Sub-20 Sunken Castle",
+            "number": 32,
+            "reason": null,
+            "warriorTime": 20189,
+            "worldRecord": 17834
+        },
+        {
+            "authorTime": 19609,
+            "custom": null,
+            "mapUid": "FspbMuKCvJagsOOl9imeXvk1CD0",
+            "name": "Hurt",
+            "number": 33,
+            "reason": null,
+            "warriorTime": 17616,
+            "worldRecord": 15622
+        },
+        {
+            "authorTime": 20376,
+            "custom": null,
+            "mapUid": "LLZuXrl3AuALnoRvMEFgvr7UE1f",
+            "name": "$o$6FFBibidiba $0CFBidiboop",
+            "number": 34,
+            "reason": null,
+            "warriorTime": 19278,
+            "worldRecord": 18179
+        },
+        {
+            "authorTime": 19979,
+            "custom": null,
+            "mapUid": "8_zup1DPaX9y1bifmKSmGaeCAO4",
+            "name": "GAZON",
+            "number": 35,
+            "reason": null,
+            "warriorTime": 10885,
+            "worldRecord": 1790
         }
     ],
     "Totd": [
