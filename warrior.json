@@ -5099,8 +5099,58 @@
             "name": "GAZON",
             "number": 35,
             "reason": null,
-            "warriorTime": 10885,
-            "worldRecord": 1790
+            "warriorTime": 19096,
+            "worldRecord": 18212
+        },
+        {
+            "authorTime": 21698,
+            "custom": null,
+            "mapUid": "c8dDeV4a8TAToAFKw3871Sgsbij",
+            "name": "Long Season",
+            "number": 36,
+            "reason": null,
+            "warriorTime": 20485,
+            "worldRecord": 19272
+        },
+        {
+            "authorTime": 15139,
+            "custom": null,
+            "mapUid": "JTNmYs8qpwCED3P5h_B9kVIxvF8",
+            "name": "$w$ff0Not $0FFCut Proof",
+            "number": 37,
+            "reason": null,
+            "warriorTime": 12192,
+            "worldRecord": 9244
+        },
+        {
+            "authorTime": 18989,
+            "custom": null,
+            "mapUid": "wUVUFiEYO7PIG13SaJ4TNPcXL48",
+            "name": "Out Of Fuel",
+            "number": 38,
+            "reason": null,
+            "warriorTime": 18322,
+            "worldRecord": 17654
+        },
+        {
+            "authorTime": 20000,
+            "custom": null,
+            "mapUid": "pAcSg7VwDlCrJtmHhF16gzIlqk2",
+            "name": "Turns",
+            "number": 39,
+            "reason": null,
+            "warriorTime": 18564,
+            "worldRecord": 17128
+        },
+        {
+            "authorTime": 21322,
+            "custom": null,
+            "mapUid": "XNPekArgpP5iCzddmCxFJMyjMbi",
+            "name": "$s$fffPick your $i$0f1POISON! $f0fSHORTS",
+            "number": 40,
+            "reason": null,
+            "warriorTime": 19822,
+            "worldRecord": 18322
         }
     ],
     "Totd": [
