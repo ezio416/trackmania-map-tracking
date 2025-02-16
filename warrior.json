@@ -5151,6 +5151,56 @@
             "reason": null,
             "warriorTime": 19822,
             "worldRecord": 18322
+        },
+        {
+            "authorTime": 21298,
+            "custom": null,
+            "mapUid": "736ORpllr0lFFDoc_L9H5FDxO5f",
+            "name": "$i$3cfKeis $fffShortHunt $3cf#$fff1",
+            "number": 41,
+            "reason": null,
+            "warriorTime": 21159,
+            "worldRecord": 21020
+        },
+        {
+            "authorTime": 21722,
+            "custom": null,
+            "mapUid": "JnEvrufuAxb9hkCnhtsxx1rdEof",
+            "name": "$i$fffValentine's choice",
+            "number": 42,
+            "reason": null,
+            "warriorTime": 21138,
+            "worldRecord": 20554
+        },
+        {
+            "authorTime": 21857,
+            "custom": null,
+            "mapUid": "S2i9AiVTNSmuUwl8hGwA9Hb815",
+            "name": "Glizzy Glide",
+            "number": 43,
+            "reason": null,
+            "warriorTime": 20258,
+            "worldRecord": 18659
+        },
+        {
+            "authorTime": 23371,
+            "custom": null,
+            "mapUid": "lKbfeYq1PytJcokL6JiQr2mPRVg",
+            "name": "Golden Mirage",
+            "number": 44,
+            "reason": null,
+            "warriorTime": 22909,
+            "worldRecord": 22446
+        },
+        {
+            "authorTime": 15195,
+            "custom": null,
+            "mapUid": "XmFLxnHaeZbXijcbIt7qUEIKUz4",
+            "name": "Symmetry - Ice",
+            "number": 45,
+            "reason": null,
+            "warriorTime": 15002,
+            "worldRecord": 14808
         }
     ],
     "Totd": [
